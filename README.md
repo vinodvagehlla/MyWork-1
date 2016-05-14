@@ -1,2 +1,2 @@
 # MyWork
-my first work
+my first work is ready
